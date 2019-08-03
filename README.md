@@ -18,6 +18,7 @@ The web application will consume user input for users demographic data and displ
 #### Dataset 
 
 Datasets for each use case in inside its perticular folder:
+
 • https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/churn%20prediction/Data/Godaddy_ChurnData.csv
 
 • https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/user%20click%20prediction%20ad/data/advertising.csv
