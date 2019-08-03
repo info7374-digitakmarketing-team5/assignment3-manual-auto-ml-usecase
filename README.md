@@ -51,7 +51,7 @@ We have one module for each case for manual implementation of predictive models 
 
 6.  *Customer Lifetime Value Prediction.ipynb* - Manual python for predicting Customer Lifetime Value
 
-#### The repository also has Azure ML studio web service for each of the use cases
+#### The repository also has Azure ML studio web service end point for each of the use cases
     
 
 
