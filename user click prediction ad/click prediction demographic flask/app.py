@@ -3,13 +3,13 @@ from flask import Flask, render_template, request
 from datetime import datetime
 import clickclassifier
 
-application = Flask(__name__)
+app = Flask(__name__)
 
-@application.route('/')
+@app.route('/')
 def home():
     return render_template('index.html')
 
-@application.route('/data', methods=['POST'])
+@app.route('/data', methods=['POST'])
 def get_data():
     if request.method == 'POST':
         # Get user demographic inputs
