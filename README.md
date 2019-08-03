@@ -19,14 +19,16 @@ The web application will consume user input for users demographic data and displ
 
 Datasets for each use case in inside its perticular folder:
 • https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/churn%20prediction/Data/Godaddy_ChurnData.csv
+
 • https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/user%20click%20prediction%20ad/data/advertising.csv
+
 • https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/predicting%20next%20purchase%20date/data/transactions.csv
 
 
 This repository contains end-to-end tutorial-like code samples to help solve
 the use cases using machine learning and Azure ML studio.
 
-#### Modules
+#### Python Notebooks
 
 We have one module for each case for manual implementation of predictive models for use cases.
 
