@@ -1,21 +1,21 @@
 # Manual and Azure ML Studio
 
-### Web Application Link for User click prediction ad use case : https://userclickpredictor.herokuapp.com/
+#### Web Application Link for User click prediction ad use case : https://userclickpredictor.herokuapp.com/
 
-### User Doc for Application:
+#### User Doc for Application:
 
 The web application will consume user input for users demographic data and display comparison between manual and Azure model.
 
-### Clat Document : https://codelabs-preview.appspot.com/?file_id=1Vn_UxG0kBE-Ia6PLEZqKmBLq5LOBqvEYquG_iMidWyE#0
+#### Clat Document : https://codelabs-preview.appspot.com/?file_id=1Vn_UxG0kBE-Ia6PLEZqKmBLq5LOBqvEYquG_iMidWyE#0
 
-### Use Cases :
+#### Use Cases :
  1. User click prediction ad
  2. Churn prediction
  3. Predicting next purchase date (With Auto ML)
  4. CLTV Prediction
  5. Market Response Prediction
 
-## Dataset 
+#### Dataset 
 
 Datasets for each use case in inside its perticular folder:
 • https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/churn%20prediction/Data/Godaddy_ChurnData.csv
@@ -26,7 +26,7 @@ Datasets for each use case in inside its perticular folder:
 This repository contains end-to-end tutorial-like code samples to help solve
 the use cases using machine learning and Azure ML studio.
 
-## Modules
+#### Modules
 
 We have one module for each case for manual implementation of predictive models for use cases.
 
@@ -46,7 +46,7 @@ We have one module for each case for manual implementation of predictive models 
 
 6.  *Customer Lifetime Value Prediction.ipynb* - Manual python for predicting Customer Lifetime Value
 
-## The repository also had Azure ML studio web service for each of the use cases
+#### The repository also had Azure ML studio web service for each of the use cases
     
 
 
