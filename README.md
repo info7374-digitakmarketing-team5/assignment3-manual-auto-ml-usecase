@@ -25,6 +25,8 @@ Datasets for each use case in inside its perticular folder:
 
 • https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/predicting%20next%20purchase%20date/data/transactions.csv
 
+• https://github.com/info7374-digitakmarketing-team5/assignment3-manual-auto-ml-usecase/blob/master/market%20response/data/Test.csv
+
 
 This repository contains end-to-end tutorial-like code samples to help solve
 the use cases using machine learning and Azure ML studio.
@@ -49,7 +51,7 @@ We have one module for each case for manual implementation of predictive models 
 
 6.  *Customer Lifetime Value Prediction.ipynb* - Manual python for predicting Customer Lifetime Value
 
-#### The repository also had Azure ML studio web service for each of the use cases
+#### The repository also has Azure ML studio web service for each of the use cases
     
 
 
